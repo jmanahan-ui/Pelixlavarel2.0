@@ -17,13 +17,21 @@ To enhance backend programming, authentication, and database integration skills.
 ⚙️ Features / Functionality
 
 💊 Manage medicines (add, update, delete, and search)
+
 📦 Monitor stock levels and receive low-stock alerts
+
 💰 Record and track sales transactions
+
 👥 Manage customer and pharmacist accounts
+
 🔐 Secure login and authentication system
+
 📈 Generate basic reports for sales and inventory overview
+
 💾 Data storage using MySQL database
+
 🖥️ User-friendly interface for smooth navigation
+
 
 🧩 Installation Instructions
 
