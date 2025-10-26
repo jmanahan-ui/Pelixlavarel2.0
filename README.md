@@ -26,12 +26,7 @@ To enhance backend programming, authentication, and database integration skills.
 
 Clone the repository:
 
-git clone https://github.com/regarcia-hub/Garcia-Regine_PharmacyManagementSystem.git
-
-
-Navigate to the project folder:
-
-cd Garcia-Regine_PharmacyManagementSystem
+git clone https://github.com/partnerusername/PharmacyManagement.git
 
 
 Install dependencies:
