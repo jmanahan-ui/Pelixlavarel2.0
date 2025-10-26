@@ -1,4 +1,5 @@
 📦 Pharmacy Management System
+
 📝 Description / Overview
 The Pharmacy Management System is a web-based application designed to streamline and automate the daily operations of a pharmacy. It helps manage medicines, track inventory, process sales, and handle customer information efficiently. 
 
