@@ -68,7 +68,7 @@ php artisan serve
 6. 
 7. Record transactions and generate reports.
 
-Eample images
+Example images
 
 <img width="1919" height="879" alt="Screenshot 2025-10-28 054747" src="https://github.com/user-attachments/assets/3758939d-656f-4abf-8a4b-3e539a26d305" />
 
