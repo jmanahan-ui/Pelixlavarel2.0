@@ -56,3 +56,29 @@ php artisan migrate
 Start the local development server:
 
 php artisan serve
+
+
+💻 Usage
+
+1. Open your browser and visit: **http://localhost:8000**
+2. 
+3. Add Sellers.
+4. 
+5. Add medicines and manage inventory through the dashboard.
+6. 
+7. Record transactions and generate reports.
+
+Eample images
+
+<img width="1919" height="879" alt="Screenshot 2025-10-28 054747" src="https://github.com/user-attachments/assets/3758939d-656f-4abf-8a4b-3e539a26d305" />
+
+<img width="1900" height="863" alt="Screenshot 2025-10-28 055124" src="https://github.com/user-attachments/assets/39531f28-58e8-441d-a941-b7f88c9c9b94" />
+
+<img width="1918" height="848" alt="Screenshot 2025-10-28 055154" src="https://github.com/user-attachments/assets/95fd5016-2c04-4308-b716-d368b470220c" />
+
+<img width="1874" height="871" alt="Screenshot 2025-10-28 055241" src="https://github.com/user-attachments/assets/6dd3d3a9-daa4-40ad-b4f7-cf35e3dd66e1" />
+
+👩‍💻 Contributors
+- John Felix Manahan
+  👩‍💻 Collaborator
+- John Patrick Ochoco
